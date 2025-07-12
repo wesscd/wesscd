@@ -32,7 +32,7 @@ Atualmente, atuo como **Analista de Infraestrutura Pleno** na HCM Equipamentos, 
 
 ## 💼 Experiência Profissional
 
-### Analista de Infraestrutura Pleno - HCM Equipamentos
+### Analista de Infraestrutura Pleno
 - Planejamento e implementação de projetos de infraestrutura de TI, com foco em servidores Hyper-V e cibersegurança.
 - Gerenciamento de redes e sistemas de controle de acesso, garantindo integridade e segurança dos dados.
 - Configuração e manutenção de servidores Windows e Linux, assegurando estabilidade e segurança.

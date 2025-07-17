@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/cesar-marques-a5723296/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_cesar.marques_">
+  <a href="https://instagram.com/_cesar.marques">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/">

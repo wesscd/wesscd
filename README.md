@@ -23,7 +23,7 @@ Sou um Analista de Infraestrutura de TI com mais de 20 anos de experiência em g
 - **Virtualização**: Hyper-V, Active Directory, Group Policy Objects (GPO)
 - **Redes**: Configuração de roteadores Mikrotik, Samba, pfSense e monitoramento com Zabbix
 - **Cibersegurança**: Firewalls, antivírus, detecção de intrusões e políticas de segurança
-- **Programação**: Conhecimentos básicos em Python (usando NetBeans IDE)
+- **Programação**: Conhecimentos básicos em Python, Pawn, JavaScript
 - **Ferramentas**: Microsoft Office, Microsoft Teams, GLPI para documentação de TI
 - **Controle de Acesso**: Sistemas TASK/DORMA KABA (portas, catracas, relógios de ponto)
 - **Soft Skills**: Comunicação eficaz, resolução de problemas, trabalho em equipe, adaptabilidade
